@@ -20,10 +20,10 @@ They can search for hundreds of flights and hotels. Cheap or luxurious, whatever
 ## Installation
 
 This project has been deployed to GitHub.
-https://github.com/jorgeatcabo/project-1
+https://github.com/Eduadomtz/vagabundos-app
 
  To get this project up and running, you can follow the deployment link.
-https://jorgeatcabo.github.io/project-1/
+https://eduadomtz.github.io/vagabundos-app/
 
  
 ## Usage
